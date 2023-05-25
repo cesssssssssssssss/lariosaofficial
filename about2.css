@@ -27,15 +27,15 @@ body{
     border-radius: 50%;
     border: 7px solid #000;
     margin-top: -80px;
-		box-shadow:  0 0 1rem #0ef;
+    box-shadow:  0 0 1rem #0ef;
 }
 .card .img2 {
-	border-color: #000;
-	transition: .5s ease;
+    border-color: #000;
+    transition: .5s ease;
 }
 
-.card:hover .img2{
-	border-color: #0ef;
+    .card:hover .img2{
+    border-color: #0ef;
 	
 }
 
@@ -44,67 +44,67 @@ body{
     transition: .7s;
 }
 .main-text{
-	position: relative;
-	top: 50px;
-	padding: 20px 0;
-	text-align: center;
-	color: #0ef;
-	border: 2px solid #fff;
-	border-radius: 10px;
-	box-shadow:  0 0 1rem #0ef;
+    position: relative;
+    top: 50px;
+    padding: 20px 0;
+    text-align: center;
+    color: #0ef;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    box-shadow:  0 0 1rem #0ef;
 }
 .main-text h2{
-	text-transform: uppercase;
-	font-weight: 900;
-	font-size: 20px;
-	margin: 0 0 20px;
-	cursor: pointer;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 20px;
+    margin: 0 0 20px;
+    cursor: pointer;
 
 }
 
 .main-text p{
-	font-size: 16px;
-	padding: 0 35px;
+    font-size: 16px;
+    padding: 0 35px;
 }
 
 .socials{
-	text-align: center;
-	padding-bottom: 20px;
+    text-align: center;
+    padding-bottom: 20px;
 }
 .socials i{
-	font-size: 20px;
-	padding: 0 10px;
-	cursor: pointer;
+    font-size: 20px;
+    padding: 0 10px;
+    cursor: pointer;
 
 }
-.socials .fb{
-	color: #fff;
-	transition: .5s ease;
-	padding: 10px;
+.socials .fb {
+    color: #fff;
+    transition: .5s ease;
+    padding: 10px;
 }
-.socials:hover .fb{
-	color: #0ef;
+.socials:hover .fb {
+    color: #0ef;
 }
-.socials .ig{
-	color: #fff;
-	transition: .5s ease;
+.socials .ig {
+    color: #fff;
+    transition: .5s ease;
 }
-.socials:hover .ig{
-	color: #0ef;
+.socials:hover .ig {
+    color: #0ef;
 }
-.socials .yt{
-	color: #fff;
-	transition: .5s ease;
+.socials .yt {
+    color: #fff;
+    transition: .5s ease;
 }
-.socials:hover .yt{
-	color: #0ef;
+.socials:hover .yt {
+    color: #0ef;
 }
-.socials .gh{
-	color: #fff;
-	transition: .5s ease;
+.socials .gh {
+    color: #fff;
+    transition: .5s ease;
 }
-.socials:hover .gh{
-	color: #0ef;
+.socials:hover .gh {
+    color: #0ef;
 }
 
 
